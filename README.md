@@ -136,7 +136,7 @@ If you know how to program at least 1 of NodeJs, Javascript, RUST and AsemblyScr
 
 
     In the event.rs file. We have log functions used to log information about NFT to Near Wallet:
-         like EventLog, NftMintLog . function
+         like EventLog, NftMintLog function
 
 
 * The build.sh file is where the build contract command is stored in the .wasm file. Used to deploy contract to Near testnet or main net
