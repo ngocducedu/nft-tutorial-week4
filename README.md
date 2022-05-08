@@ -34,7 +34,9 @@ If you know how to program at least 1 of NodeJs, Javascript, RUST and AsemblyScr
 - In contract folder:  I create nft-tutorial-contract folder inside it then move all file to it
   You can see src folder. This is code rust contract.
   Main file contract is lib.rs. I created some extra files to separate the code for transparency
+  
     I created some extra files to separate the code for transparency. Then i import them: 
+    
         use crate::utils::*;
         pub use crate::metadata::*;
         pub use crate::mint::*;
